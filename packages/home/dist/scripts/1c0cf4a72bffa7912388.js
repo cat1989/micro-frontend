@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhome=self.webpackChunkhome||[]).push([[415],{9669:(e,n,s)=>{s.r(n),s.d(n,{default:()=>t});const t=(0,s(8438).A)({},(function(){var e=this,n=e.$createElement;return(e._self._c||n)("section",[e._v("\n    "+e._s(e.$route.params.id)+"\n")])}),[],!1,null,null,null).exports}}]);
